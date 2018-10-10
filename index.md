@@ -88,5 +88,5 @@ informatie in meer detail beschreven.
 Stuur een email naar L [punt] Snoek [at] uva [punt] nl met als onderwerp "Deelname FEED onderzoek" met
 vermelding van uw naam en leeftijd. Dan wordt er z.s.m. contact met u opgenomen!
 
-De inhoud evan zowel deze website als de informatiebrochure kunnen nog veranderen. Aan de inhoud van
+De inhoud van zowel deze website als de informatiebrochure kunnen nog veranderen. Aan de inhoud van
 deze website en informatiebrochure kunnen geen rechten worden ontleend.
