@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# Wat?
+# __Wat__?
 Wij zijn op zoek naar proefpersonen voor ons project over gezichtsuitdrukkingen!
 Dit project, genaamd "FEED" (Facial Expression Encoding and Decoding), is een
 omvangrijk project waarin we willen onderzoeken **hoe mensen informatie van
 gezichten en gezichtsuitdrukkingen verwerken**. 
 
-# Wie?
+# __Wie__?
 We zijn op zoek naar **gemotiveerde**, Nederlands-sprekende proefpersonen die ervaring hebben met
 MRI-onderzoek. Eerdere ervaring met MRI-onderzoek (als proefpersoon) stellen
 wij als eis omdat we zeker willen weten dat proefpersonen zich comfortabel voelen
@@ -16,7 +16,7 @@ in een MRI-scanner, zeker omdat het onderzoek zo'n **8 uur in de MRI-scanner** o
 Naast het MRI-deel omvat dit onderzoek nog **8 uur gedragsonderzoek**, waarbij je
 verschillende gezichtsuitdrukkingen beoordeelt op verschillende eigenschappen
 (bijvoorbeeld intensiteit, emotie, etc.). In totaal duurt dit onderzoek dus
-16 uur (verdeeld over 10 sessies). 
+16 uur (verdeeld over 12 sessies). 
 
 Op dit onderzoek zijn wel een paar **inclusie-criteria** van toepassing. Deze
 staan hieronder beschreven. Als je niet al deze criteria voldoen, kan je
@@ -31,7 +31,7 @@ We zoeken proefpersonen in deze leeftijdsrange om de onderzoeksgroep zo homogeen
 Een draadje achter je tanden zorgt voor sterke verstoringen op de MRI-beelden, waardoor deze data onbruikbaar is. 
 
 ### 3. Je hebt geen metaal in je lichaam
-Een MRI-scanner genereert een sterk magnetisch veld waardoor het niet veilig is om gescand te worden als je metaal in je lichaam hebt (dat niet verwijderd kan worden), zoals een pacemaker, neurostimulator, protheses, en botschroeven. Om te zien of veilig mee zou kunnen doen, kan je [dit screening-formulier]() checken - als je op één of meerdere vragen "ja" zou beantwoorden, dan kan je waarschijnlijk niet meedoen (belangrijk: piercings zijn *geen* probleem mits ze uit gedaan kunnen worden).
+Een MRI-scanner genereert een sterk magnetisch veld waardoor het niet veilig is om gescand te worden als je metaal in je lichaam hebt (dat niet verwijderd kan worden), zoals een pacemaker, neurostimulator, protheses, en botschroeven. Om te zien of veilig mee zou kunnen doen, kan je [dit screening-formulier](Spinoza_MRI_screening.pdf) checken - als je op één of meerdere vragen "ja" zou beantwoorden, dan kan je waarschijnlijk niet meedoen (belangrijk: piercings zijn *geen* probleem mits ze uit gedaan kunnen worden).
 
 ### 4. Je hebt eerder in een MRI-scanner gelegen voor psychologisch onderzoek.
 Voor dit onderzoek gebruiken we een sterke MRI-scanner. Deze heeft een veel sterker magneetveld (van “7 Tesla”) dan bijvoorbeeld MRI-scanners in het ziekenhuis (deze zijn vaak maar “1.5 Tesla”). Door dit sterke magneetveld kan het zijn dat je een beetje duizelig wordt wanneer je in de MRI-scanner wordt geschoven. Er zijn geen gezondheidsrisico’s bekend met (7 Tesla) MRI in het algemeen en de mogelijke duizeligheid in het specifiek, maar voor mensen met een evenwichtsstoornis of mensen die snel duizelig worden, kan dit als onprettig ervaren worden.
@@ -67,19 +67,19 @@ Omdat het onderzoek per proefpersoon is verspreid over 9 verschillende sessies o
 
 Als je denkt dat je voldoet aan alle bovenstaande inclusie-criteria, dan kan je je inschrijven voor dit onderzoek. Tijdens de eerste “sessie” van dit onderzoek, de intake, zullen de bovenstaande criteria nogmaals doornemen voor de zekerheid. Als er onduidelijkheid is over de genoemde criteria of als je niet zeker weet of je voldoet aan een of meerdere criteria, dan kan je dit altijd van tevoren overleggen met de proefleider (zie **Hoe kan ik meedoen?** voor contactgegevens).
 
-# Waarom zou ik meedoen?
+# __Waarom__ zou ik meedoen?
 Om de wetenschap verder te helpen natuurlijk! We begrijpen uiteraard dat
 17 uur een flinke tijdsinvestering is. Daarom krijg je ook een financiële
 vergoeding van ten minste **360** euro (wat kan oplopen tot **500** euro afhankelijk van de presentatie op de verschillende psychologisch taken tijdens het experiment).  
 
-# Waar kan ik meer informatie vinden?
+# __Waar__ kan ik meer informatie vinden?
 Hieronder kan je de informatiebrochure van dit onderzoek downloaden. In deze brochure
 staat de gang van zaken tijdens het onderzoek, de verschillende onderdelen, en overige
 informatie in meer detail beschreven.
 
 [**Download**](FEED_informatiebrief_lang.pdf) brochure.
 
-# Hoe kan ik meedoen?
+# __Hoe__ kan ik meedoen?
 Stuur een email naar L [punt] Snoek [at] uva [punt] nl met als onderwerp "Deelname FEED onderzoek" met
 vermelding van uw naam en leeftijd. Dan wordt er z.s.m. contact met u opgenomen!
 
