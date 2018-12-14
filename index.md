@@ -31,7 +31,7 @@ We zoeken proefpersonen in deze leeftijdsrange om de onderzoeksgroep zo homogeen
 Een draadje achter je tanden zorgt voor sterke verstoringen op de MRI-beelden, waardoor deze data onbruikbaar is. 
 
 ### 3. Je hebt geen metaal in je lichaam
-Een MRI-scanner genereert een sterk magnetisch veld waardoor het niet veilig is om gescand te worden als je metaal in je lichaam hebt (dat niet verwijderd kan worden), zoals een pacemaker, neurostimulator, protheses, en botschroeven.
+Een MRI-scanner genereert een sterk magnetisch veld waardoor het niet veilig is om gescand te worden als je metaal in je lichaam hebt (dat niet verwijderd kan worden), zoals een pacemaker, neurostimulator, protheses, en botschroeven. Om te zien of veilig mee zou kunnen doen, kan je [dit screening-formulier]() checken - als je op één of meerdere vragen "ja" zou beantwoorden, dan kan je waarschijnlijk niet meedoen (belangrijk: piercings zijn *geen* probleem mits ze uit gedaan kunnen worden).
 
 ### 4. Je hebt eerder in een MRI-scanner gelegen voor psychologisch onderzoek.
 Voor dit onderzoek gebruiken we een sterke MRI-scanner. Deze heeft een veel sterker magneetveld (van “7 Tesla”) dan bijvoorbeeld MRI-scanners in het ziekenhuis (deze zijn vaak maar “1.5 Tesla”). Door dit sterke magneetveld kan het zijn dat je een beetje duizelig wordt wanneer je in de MRI-scanner wordt geschoven. Er zijn geen gezondheidsrisico’s bekend met (7 Tesla) MRI in het algemeen en de mogelijke duizeligheid in het specifiek, maar voor mensen met een evenwichtsstoornis of mensen die snel duizelig worden, kan dit als onprettig ervaren worden.
