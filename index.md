@@ -77,7 +77,7 @@ Hieronder kan je de informatiebrochure van dit onderzoek downloaden. In deze bro
 staat de gang van zaken tijdens het onderzoek, de verschillende onderdelen, en overige
 informatie in meer detail beschreven.
 
-[**Download**](InformedConsent_MRI.pdf) brochure.
+[**Download**](FEED_informatiebrief_lang.pdf) brochure.
 
 # Hoe kan ik meedoen?
 Stuur een email naar L [punt] Snoek [at] uva [punt] nl met als onderwerp "Deelname FEED onderzoek" met
