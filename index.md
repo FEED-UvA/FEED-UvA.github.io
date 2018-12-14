@@ -60,7 +60,7 @@ Sommige onderdelen van het MRI-onderzoek bevatten flikkerende visuele plaatjes, 
 ### 11. Je kan je goed concentreren voor een lange periode.
 Dit onderzoek bevat verschillende langdurende, repetitieve taken — zowel binnen als buiten de MRI-scanner. Het is ontzettend belangrijk voor dit onderzoek dat je je kan blijven concentreren voor tenminste een uur (met korte pauzes tussendoor). Als je van jezelf weet dat je dit moeilijk vindt, raden we je af om mee te doen met dit onderzoek.
 
-### 12. Je bent ten minste twee maanden aaneensluitend beschikbaar voor onderzoek (in de periode november 2018-april 2019).
+### 12. Je bent ten minste twee maanden aaneensluitend beschikbaar voor onderzoek (in de periode januari-juli 2019).
 Omdat het onderzoek per proefpersoon is verspreid over 9 verschillende sessies op verschillende dagen, is het belangrijk dat je voor een lange, aansluitende periode beschikbaar bent. Dit betekent, bijvoorbeeld, dat het niet mogelijk is om je eerste twee sessies in November te doen, en vervolgens in december een half jaar naar het buitenland gaat voor studie of vakantie.
 
 ---
