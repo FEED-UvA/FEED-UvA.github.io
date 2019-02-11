@@ -19,8 +19,9 @@ verschillende gezichtsuitdrukkingen beoordeelt op verschillende eigenschappen
 16 uur (verdeeld over 12 sessies). 
 
 Op dit onderzoek zijn wel een paar **inclusie-criteria** van toepassing. Deze
-staan hieronder beschreven. Als je niet al deze criteria voldoen, kan je
-helaas *niet* deelnemen aan dit onderzoek.
+staan hieronder beschreven. Als je niet aan deze criteria voldoet, kan je
+helaas *niet* deelnemen aan dit onderzoek. Als je niet zeker weet of je aan deze criteria voldoet,
+stuur dan een email naar de verantwoordelijke onderzoeker (L [punt] Snoek [at] uva [punt] nl).
 
 ---
 
@@ -30,8 +31,8 @@ We zoeken proefpersonen in deze leeftijdsrange om de onderzoeksgroep zo homogeen
 ### 2. Je hebt geen metaal in je lichaam
 Een MRI-scanner genereert een sterk magnetisch veld waardoor het niet veilig is om gescand te worden als je metaal in je lichaam hebt (dat niet verwijderd kan worden), zoals een pacemaker, neurostimulator, protheses, en botschroeven. Om te zien of veilig mee zou kunnen doen, kan je [dit screening-formulier](Spinoza_MRI_screening.pdf) checken - als je op één of meerdere vragen "ja" zou beantwoorden, dan kan je waarschijnlijk niet meedoen (belangrijk: piercings zijn *geen* probleem mits ze uit gedaan kunnen worden).
 
-### 3. Je hebt eerder in een MRI-scanner gelegen voor psychologisch onderzoek.
-Voor dit onderzoek gebruiken we een sterke MRI-scanner. Deze heeft een veel sterker magneetveld (van “7 Tesla”) dan bijvoorbeeld MRI-scanners in het ziekenhuis (deze zijn vaak maar “1.5 Tesla”). Door dit sterke magneetveld kan het zijn dat je een beetje duizelig wordt wanneer je in de MRI-scanner wordt geschoven. Er zijn geen gezondheidsrisico’s bekend met (7 Tesla) MRI in het algemeen en de mogelijke duizeligheid in het specifiek, maar voor mensen met een evenwichtsstoornis of mensen die snel duizelig worden, kan dit als onprettig ervaren worden.
+### 3. Je hebt *bij voorkeur* eerder in een MRI-scanner gelegen voor psychologisch onderzoek.
+Voor dit onderzoek gebruiken we een sterke MRI-scanner. Deze heeft een sterker magneetveld (van “7 Tesla”) dan bijvoorbeeld MRI-scanners in het ziekenhuis (deze zijn vaak maar “1.5 Tesla”). Door dit sterke magneetveld kan het zijn dat je een beetje duizelig wordt wanneer je in de MRI-scanner wordt geschoven. Er zijn geen gezondheidsrisico’s bekend met (7 Tesla) MRI in het algemeen en de mogelijke duizeligheid in het specifiek, maar voor mensen met een evenwichtsstoornis of mensen die snel duizelig worden, kan dit als onprettig ervaren worden. Dit is geen *strict* inclusie-criterium voor dit onderzoek.
 
 ### 4. Je hebt geen evenwichtsstoornis en je wordt niet snel duizelig.
 Voor dit onderzoek gebruiken we een sterke MRI-scanner. Deze heeft een veel sterker magneetveld (van “7 Tesla”) dan bijvoorbeeld MRI-scanners in het ziekenhuis (deze zijn vaak maar “1.5 Tesla”). Door dit sterke magneetveld kan het zijn dat je een beetje duizelig wordt wanneer je in de MRI-scanner wordt geschoven. Er zijn geen gezondheidsrisico’s bekend met (7 Tesla) MRI in het algemeen en de mogelijke duizeligheid in het specifiek, maar voor mensen met een evenwichtsstoornis of mensen die snel duizelig worden, kan dit als onprettig ervaren worden.
