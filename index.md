@@ -73,9 +73,12 @@ vergoeding van ten minste **360** euro (wat kan oplopen tot **510** euro afhanke
 # __Waar__ kan ik meer informatie vinden?
 Hieronder kan je de informatiebrochure van dit onderzoek downloaden. In deze brochure
 staat de gang van zaken tijdens het onderzoek, de verschillende onderdelen, en overige
-informatie in meer detail beschreven.
+informatie in meer detail beschreven. Als je meer wilt weten over MRI onderzoek bij het Spinoza Centre,
+dan kan je de "informatiebrochure MRI-onderzoek" hieronder downloaden.
 
-[**Download**](FEED_informatiebrief_lang.pdf) brochure.
+[**Download**](FEED_informatiebrief_lang.pdf) Informatiebrochure FEED-onderzoek.
+
+[**Download**](FEED_MRI_infobrochure.pdf) Informatiebrochure MRI-onderzoek.
 
 # __Hoe__ kan ik meedoen?
 Stuur een email naar L [punt] Snoek [at] uva [punt] nl met als onderwerp "Deelname FEED onderzoek" met
