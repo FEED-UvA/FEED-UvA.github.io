@@ -2,6 +2,8 @@
 layout: default
 ---
 
+**Op dit moment hebben we genoeg proefpersonen! Dit kan nog veranderen, dus houd deze website in de gaten!**
+
 # __Wat__?
 Wij zijn op zoek naar proefpersonen voor ons project over gezichtsuitdrukkingen!
 Dit project, genaamd "FEED" (Facial Expression Encoding and Decoding), is een
